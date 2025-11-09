@@ -1,6 +1,6 @@
 namespace BYT_task3;
 
-public class Part1_Test
+public class Part1Test
 {
     public class Test
     {
